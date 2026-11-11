@@ -1,1 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
 
+# Environments
+.env
+
+# Jupyter / tools
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
